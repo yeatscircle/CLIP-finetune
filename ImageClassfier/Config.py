@@ -42,10 +42,4 @@ def labels_to_text(label):
     return 'A photo of ' + label
 
 
-def text_transformer(text):
-    # 使用 CLIP 的处理器将文本转换为模型需要的格式
-    # 这会自动处理标记化、数字化和张量化
-    # return_tensors="pt" 告诉处理器返回 PyTorch 张量
-    processed = processor(text=text, return_tensors="pt")
-    # 通常只需要 input_ids，这是输入到模型的实际文本张量
-    return processed.input_ids.squeeze()  # 移除不必要的批处理维度
+ 

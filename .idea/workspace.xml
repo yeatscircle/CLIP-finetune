@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b798ef4-011b-4faf-896f-37689cc88c24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bert.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageClassfier/Config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageClassfier/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageClassfier/UtilityFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageClassfier/dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageClassfier/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageClassfier/train.py" afterDir="false" />
+    <list default="true" id="3b798ef4-011b-4faf-896f-37689cc88c24" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/FinalWork.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageClassfier/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassfier/Config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageClassfier/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassfier/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -69,7 +60,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Pyrorch/neural_network&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yeats/Desktop/智慧医疗/ecg-classification-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -239,11 +230,27 @@
       <workItem from="1714056102715" duration="757000" />
       <workItem from="1714138134803" duration="4840000" />
       <workItem from="1714226300245" duration="12000" />
+      <workItem from="1714314147715" duration="351000" />
+      <workItem from="1714352877288" duration="21000" />
+      <workItem from="1714373747787" duration="3050000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1714314171370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714314171370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bert$Test.coverage" NAME="Test Coverage Results" MODIFIED="1713937616672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

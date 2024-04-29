@@ -38,9 +38,6 @@ def trainer(train_loader, valid_loader, model, config, device, rest_net_flag=Fal
             pred = model(x)
             loss = criterion(pred, y)
             loss.backward()
-            # 稳定训练的技巧
-            if config['clip_flag']:
-                grad_norm = nn.utils.clip_grad_norm_(model.parameters(), max_norm=10)
 
             optimizer.step()
             step += 1

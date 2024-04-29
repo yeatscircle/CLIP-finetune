@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b798ef4-011b-4faf-896f-37689cc88c24" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/FinalWork.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageClassfier/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassfier/Config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageClassfier/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageClassfier/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalWork.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalWork.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +229,7 @@
       <workItem from="1714226300245" duration="12000" />
       <workItem from="1714314147715" duration="351000" />
       <workItem from="1714352877288" duration="21000" />
-      <workItem from="1714373747787" duration="3050000" />
+      <workItem from="1714373747787" duration="3795000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -242,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714314171370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1714376959536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714376959536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
